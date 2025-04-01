@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "events.html",
     "theme": {
       "name": "churchm5",
       "title": "ChurchM5",
@@ -12789,7 +12789,7 @@
         }
       ]
     },
-    "page10.html": {
+    "events.html": {
       "settings": {
         "title": "Events | Christ Church Summit",
         "order": "7"
